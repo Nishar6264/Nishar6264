@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://nishar6264.github.io/Nishar-Portfolio/)**
 
-- 📫 How to reach me **nisharalam786m@gmail.com**
+- 📫 How to reach me **mralamnishar@gmail.com**
 
 <!-- - ⚡ Fun fact **I play game very often.** -->
 
