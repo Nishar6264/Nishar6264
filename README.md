@@ -38,7 +38,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/armanali0786/github-readme-streak-stats">
+    <a href="https://github.com/Nishar6264/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nishar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishar6264&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -61,10 +61,3 @@
 <a href = "https://www.linkedin.com/in/nishar-alam-bab812211/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/im_nisharalam/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/nishar.alam.7186"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=RahuII">
-</a>
-<a href="https://github.com/Nishar6264?tab=followers"><img src="https://img.shields.io/github/followers/RahuII?label=Followers&style=social" alt="GitHub Badge"></a>
